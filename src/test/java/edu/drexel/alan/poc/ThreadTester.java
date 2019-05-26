@@ -119,7 +119,7 @@ public class ThreadTester {
 	}
 	
 	//new comment
-	
+	//new comment 2
 	public void longRunningMethod1() {
 		logger.info("longRunningMethod1 -- running...");
 		try {
